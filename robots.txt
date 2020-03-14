@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijoathoh.barryrhodes.co.uk/sitemap.xml
